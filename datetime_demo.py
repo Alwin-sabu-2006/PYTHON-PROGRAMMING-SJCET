@@ -1,3 +1,4 @@
+"AUTHOR=Alwin sabu date=22/10/2024 description=A prgm that contains various usages of datetime module"
 from datetime import datetime
 current=datetime.now()
 print(current)
