@@ -5,8 +5,8 @@ DESCRIPTION=Simple desktop calculator using Python.
 
 '''
 num1=int(input("enter the first number"))
-num2=int(input("enter the second input"))
-num3=int(input("enter the second number"))
+num2=int(input("enter the second number"))
+num3=int(input("enter the third number"))
 #add
 Add=num1+num2
 print("the sum of num1 and num2 is:",Add)
